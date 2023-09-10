@@ -105,6 +105,7 @@ class Hangman {
         }
 
     }
+    // This is the main method of the java program
     public static void main(String [] args) {
         Hangman h = new Hangman();
         h.generate_words();
